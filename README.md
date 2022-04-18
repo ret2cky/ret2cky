@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### connor / cky 🧛
+#### infosec student with a focus on pen testing :)
+You can reach out / connect with me over here: http://connorkas.com:80/contact <br><br>
+![heart](https://emoji.gg/assets/emoji/2315-white-heart-spin.gif)
 <!--
 **connorkas/connorkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
